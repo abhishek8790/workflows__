@@ -3,7 +3,7 @@ import urllib.parse
 from datetime import datetime
 
 NEWS_API_KEY = "3d9d1ca3fdd94186a02a173fa4b0793b"
-BUFFER_TOKEN = "8Yau2zZcwB1uROnn-gRyP7LTziXVjzpqqGhnPAgTrO_"
+BUFFER_TOKEN = "a3NBkaPyqkiDKeaG0tMH6BF7ZKZYl8F6SEmPpDXW2KA"
 BUFFER_PROFILE_ID = "6a39918a5ab6d2f1065e1f21"
 NICHE_KEYWORD = "artificial intelligence"
 
